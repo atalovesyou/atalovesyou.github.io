@@ -29,50 +29,51 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h4 style="opacity:0"><i class="website"></i> .</h4>
 				<span class="menu"></span>
 				<div class="top-menu" style="position: relative;">
-					<ul>                                              
+					<ul> 
+
+					<li>
+				        	<a href="#">About Us</a>
+				        	<ul>
+					        	<li><a href="#">About IIT Kharagpur</a></li>
+					        	<li><a href="#">About CDC</a></li>
+					        	<li><a href="#">Our Objectives</a></li>
+					        	<li><a href="#">Director's Message</a></li>
+					        	<li><a href="#">Chairman's Message</a></li>
+				        	</ul>
+				        </li>                                             
 				        <li>
 				        	<a href="#">Why recruit?</a>
 				        	<ul>
 					        	<li><a href="#">Academics</a></li>
 					        	<li><a href="#">Demographics</a></li>
 					        	<li><a href="#">Faculty</a></li>
-					        	<li><a href="#">Academics</a></li>
-					        	<li><a href="#">Demographics</a></li>
-					        	<li><a href="#">Faculty</a></li>
+					        	<li><a href="#">Research</a></li>
+					        	<li><a href="#">Beyond Academics</a></li>
+					        	<li><a href="#">Alumni</a></li>
 				        	</ul>
 				        </li>
 				        <li>
 				        	<a href="#">For Companies</a>
-				        	<ul>
-					        	<li><a href="/cdc/placements.php"">Placements</a></li>
-					        	
-					        	<li><a href="#">PAP</a></li>
-					        	<li><a href="#">Facilities</a></li>
-					        	
-					        	
-					        	
-					        	<li><a href="#">PAS</a></li>
-					        	<li><a href="#">FAQs</a></li>
+					        	<ul>
+					        	<li><a href="/cdc/placements.php">Company Registration</a></li>
+					        	<li><a href="#"></a>Company Login</li>
+					        	<li><a href="#">Process Flow</a></li>
+					        	<li><a href="#">Placement Calendar</a></li>
+					        	<li><a href="#">Brochures</a></li>
+					        	<li><a href="#">Workshops</a></li>
 					        	<li><a href="#">Internships</a></li>
-					        	<li><a href="#">Internships</a></li>
-					        	<li><a href="#">Downloads</a></li>
+					        	<li><a href="#">Facilities</a></li>					        	
 					        	
-					        	
-					        	
-					        	<li><a href="#"></a></li>
 				        	</ul>
 				        </li>
 				         <li>
 				        	<a href="#">FOR STUDENTS</a>
 				        	<ul>
 					        	
-					        	<li><a href="#">CAW</a></li>
-					        	<li><a href="#">PAS</a></li>
-					        	
-					        	<li><a href="#">FAQs</a></li>
-					        	<li><a href="#">Downloads</a></li>
-					        
-					        
+					        	<li><a href="#">Student LoginLogin</a></li>
+					        	<li><a href="#">Internship Policy</a></li>
+					        	<li><a href="#">Placement Policy</a></li>
+					        	<li><a href="#">Career Development Workshops</a></li>			        
 					        	<li><a href="#">FAQs</a></li>
 
 				        	</ul>

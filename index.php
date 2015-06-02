@@ -32,10 +32,24 @@
 	<div class="content">
 	<div class="services-section">
 		<div class="container">
-			<h3>About </h3>
-			<p class="text">
-				 Indian Institute of Technology Kharagpur, the pioneer of technical education in India is the largest and most diversified of the IITs established post independence. The Institute consistently attracts the finest faculty and students for its undergraduate, postgraduate as well as doctoral programs in engineering, scientific research, management, architecture, humanities and social sciences. Recent additions to this list are programs in Medical Science & Technology, Infrastructure Design and Intellectual Property Law including Corporate Law.
-			</p>
+		<br/>
+		<br/>
+			<h3>About Us</h3>
+			<p class="text center">
+				 Indian Institute of Technology Kharagpur, the pioneer of technical education in India is the 
+				 largest and most diversified of the IITs established post independence. 
+				 The Institute consistently attracts the finest faculty and students for its undergraduate, 
+				 postgraduate as well as doctoral programs in engineering, scientific research, management,
+				 architecture, humanities and social sciences. Recent additions to this list are programs in 
+				 Medical Science & Technology, Infrastructure Design and Intellectual Property Law including 
+				 Corporate Law.
+				 <br/>
+				 <br/>
+				 IIT Kharagpur, the first, the largest and the most diversified among the IITs, has always been 
+				 the pacesetter. The alumni of this Institute occupy top positions in business, industry, R&D and
+				  academia in India and abroad. Over and above a rigorous academic schedule, we place a great emphasis 
+				  on all-round development of our students. The beautiful campus, far away from the city, 
+				  provides an excellent environment for learning.</p>
 		</div>
 	</div>
 	<div class="services-section">
@@ -49,7 +63,7 @@
 						<div class="icons">
 							<div class="icon-left">
 								<i class="ppc"></i>
-							</div>
+							</div>	
 							<div class="icon-right">
 								<a href="ppc.php"><i class="arrow arrow1"></i></a>
 							</div>
